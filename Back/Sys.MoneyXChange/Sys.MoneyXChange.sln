@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.MoneyXChange", "WebAPI.MoneyXChange\WebAPI.MoneyXChange.csproj", "{F7232943-3EBC-41F4-8E76-161B617EB54A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI.MoneyXChange", "WebAPI.MoneyXChange\WebAPI.MoneyXChange.csproj", "{F7232943-3EBC-41F4-8E76-161B617EB54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.MoneyXChange.UnitTest", "WebAPI.MoneyXChange.UnitTest\WebAPI.MoneyXChange.UnitTest.csproj", "{B824F0CF-1C7A-455C-8B2C-299789EB0DCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F7232943-3EBC-41F4-8E76-161B617EB54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7232943-3EBC-41F4-8E76-161B617EB54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7232943-3EBC-41F4-8E76-161B617EB54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B824F0CF-1C7A-455C-8B2C-299789EB0DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B824F0CF-1C7A-455C-8B2C-299789EB0DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B824F0CF-1C7A-455C-8B2C-299789EB0DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B824F0CF-1C7A-455C-8B2C-299789EB0DCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
