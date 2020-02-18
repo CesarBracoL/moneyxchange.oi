@@ -1,0 +1,15 @@
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\obj\Debug\netcoreapp2.1\WebAPI.MoneyXChange.AssemblyInfoInputs.cache
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\obj\Debug\netcoreapp2.1\WebAPI.MoneyXChange.AssemblyInfo.cs
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\WebAPI.MoneyXChange.deps.json
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\WebAPI.MoneyXChange.runtimeconfig.json
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\WebAPI.MoneyXChange.runtimeconfig.dev.json
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\WebAPI.MoneyXChange.dll
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\obj\Debug\netcoreapp2.1\WebAPI.MoneyXChange.RazorAssemblyInfo.cache
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\obj\Debug\netcoreapp2.1\WebAPI.MoneyXChange.RazorAssemblyInfo.cs
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\obj\Debug\netcoreapp2.1\WebAPI.MoneyXChange.RazorTargetAssemblyInfo.cache
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\bin\Debug\netcoreapp2.1\WebAPI.MoneyXChange.pdb
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\obj\Debug\netcoreapp2.1\WebAPI.MoneyXChange.dll
+D:\Net\Belatrix\Back\Sys.MoneyXChange\WebAPI.MoneyXChange\obj\Debug\netcoreapp2.1\WebAPI.MoneyXChange.pdb
